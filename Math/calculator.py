@@ -87,9 +87,3 @@ elif Operator == "cosh":
 elif Operator == "tanh":
     result = math.tanh(num1)
     print(f"tanh({num1}) = {result}")
-
-
-
-
-
-    
